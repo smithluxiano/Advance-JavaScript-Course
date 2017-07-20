@@ -1,0 +1,2 @@
+tarea
+hacer Herencia para hacer mas figuras(estrellas, cuadradros)
